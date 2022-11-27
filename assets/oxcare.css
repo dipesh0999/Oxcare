@@ -10,7 +10,6 @@
     background-color: #EAFFF0;
     margin-bottom: 100px;
 }
-
 .navigation{
     width: 1440px;
     margin-left: auto;
@@ -440,12 +439,12 @@ a{
 .doctor-img-2{
     width: 60px;
     position: absolute;
-    left: 244px;
+    left: 200px;
 }
 .doctor-img-3{
     width: 60px;
     position: absolute;
-    left: 200px;
+    left: 244px;
 }
 .waiting-text{
     width: 180px;
